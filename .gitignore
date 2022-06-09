@@ -1,0 +1,5 @@
+infrastructure/.terraform.lock.hcl
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
+infrastructure/.terraform/
+python-app/src/__pycache__/
